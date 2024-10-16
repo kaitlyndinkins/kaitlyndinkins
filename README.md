@@ -1,4 +1,24 @@
-## Hi there 👋
+# Kaitlyn Bailey Dinkins
+
+## About
+
+- *CRT Major*
+- *Entrepreneurship and Innovation Minor*
+
+## Courses
+
+- CSC 101 - **Introduction to Computing**
+
+## Projects
+
+## WIP
+
+
+
+
+
+
+
 
 <!--
 **kaitlyndinkins/kaitlyndinkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
